@@ -1131,14 +1131,15 @@ section.lazy-placeholder:after {
   background-color: #232323;
 }
 .cid-rDZOopTfGM .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rDZOopTfGM .section-text {
   padding: 2rem 0;
+  color: #232323;
 }
 .cid-rDZOopTfGM .inner-container {
   margin: 0 auto;
